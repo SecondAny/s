@@ -1,0 +1,39 @@
+.site-title{
+    display: flex;
+    justify-content: center;
+}
+.main-section{
+    display: block;
+}
+.explicacao{
+    display: flex;
+    justify-content: center;
+}
+
+.quest-1, .quest-2, .quest-3, .quest-4, .quest-5, .quest-6{
+    width: 100%;
+}
+
+.btn{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+}
+
+#btnButton{
+    width: 50%;
+    height: 3rem;
+
+}
+.final{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+#btnFinal{
+    width: auto;
+    height: 3rem;
+    display: none;
+    font-size: 1.5rem;
+}
